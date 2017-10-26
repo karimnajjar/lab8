@@ -1,0 +1,5 @@
+PLL_Name	lab7_soc:nios_system|lab7_soc_sdram_pll:sdram_pll|lab7_soc_sdram_pll_altpll_lqa2:sd1|pll7
+PLLJITTER	35
+PLLSPEmax	84
+PLLSPEmin	-53
+
